@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test17_SealedClass", "Test1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test18_TryCatch_TryParse", "Test18_TryCatch_TryParse\Test18_TryCatch_TryParse.csproj", "{F0C85229-3385-4EFF-95C7-AD96A1AE8BA1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test19_Bitwise", "Test19\Test19_Bitwise.csproj", "{81FF1933-AB7D-4968-9745-1992CC59545A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test19_Bitwise", "Test19_Bitwise\Test19_Bitwise.csproj", "{81FF1933-AB7D-4968-9745-1992CC59545A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test01_For_Foreach", "Test01_For_Foreach\Test01_For_Foreach.csproj", "{080E6A09-B774-4995-B143-2FAE18A9D82B}"
 EndProject
@@ -51,31 +51,31 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test16_ByLoop_ArrayCopy", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test15b_Return_Out", "Test15b_Return_Out\Test15b_Return_Out.csproj", "{48DD5206-1E61-430B-917D-8D8F8F327923}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test20_Multi_Level_Inheritance", "Test20\Test20_Multi_Level_Inheritance.csproj", "{2C9812C0-5FDB-4895-B53C-E89FA2D4F29F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test20_Multi_Level_Inheritance", "Test20_Multi_Level_Inheritance\Test20_Multi_Level_Inheritance.csproj", "{2C9812C0-5FDB-4895-B53C-E89FA2D4F29F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test21_NoInlining", "Test21\Test21_NoInlining.csproj", "{EE20CB35-64FF-4BC8-AB72-BC1FEB04FD02}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test21_NoInlining", "Test21_NoInlining\Test21_NoInlining.csproj", "{EE20CB35-64FF-4BC8-AB72-BC1FEB04FD02}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test22_Lookup", "Test22\Test22_Lookup.csproj", "{E14C5C61-50E9-4AD0-8086-6632DDA9F8E4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test22_Lookup", "Test22_Lookup\Test22_Lookup.csproj", "{E14C5C61-50E9-4AD0-8086-6632DDA9F8E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test23_Cache", "Test23\Test23_Cache.csproj", "{BFEBE1E9-5FC3-4169-8712-186F4C7305A2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test23_Cache", "Test23_Cache\Test23_Cache.csproj", "{BFEBE1E9-5FC3-4169-8712-186F4C7305A2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestIsland", "TestIsland\TestIsland.csproj", "{ED41B213-45CE-4171-8E09-A2D91F62C5B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test24_RedundantCode", "Test24\Test24_RedundantCode.csproj", "{278E4FEA-F18A-4C57-BF62-13EE2E861A0A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test24_RedundantCode", "Test24_RedundantCode\Test24_RedundantCode.csproj", "{278E4FEA-F18A-4C57-BF62-13EE2E861A0A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test25_BlockCopy", "Test25\Test25_BlockCopy.csproj", "{D6A5A6E7-4890-44B9-8938-5AB292D9DA77}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test25_BlockCopy", "Test25_BlockCopy\Test25_BlockCopy.csproj", "{D6A5A6E7-4890-44B9-8938-5AB292D9DA77}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MissStep", "MissStep\MissStep.csproj", "{DD98DFEC-24A6-4D8A-AD4F-52ACA0CB9327}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test26_RightShift", "Test26\Test26_RightShift.csproj", "{821863DA-7378-400D-A9B2-ED2BAB6C7B5B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test26_RightShift", "Test26_RightShift\Test26_RightShift.csproj", "{821863DA-7378-400D-A9B2-ED2BAB6C7B5B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test27_Port", "Test27_Port\Test27_Port.csproj", "{539D528D-8ECE-4B63-945D-25A095BF6DC9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test27b_Async_Port", "Test27b_Async_Port\Test27b_Async_Port.csproj", "{C35ACFDA-D62F-4EBB-999B-CA2EAD43F01E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test28_Pointer", "Test28\Test28_Pointer.csproj", "{13DD0E14-CA6B-41D2-B65C-707023FA5265}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test28_Pointer", "Test28_Pointer\Test28_Pointer.csproj", "{13DD0E14-CA6B-41D2-B65C-707023FA5265}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test29_Memset", "Test29\Test29_Memset.csproj", "{082F5B0C-DFF6-4349-989E-DA4206177DBB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test29_Memset", "Test29_Memset\Test29_Memset.csproj", "{082F5B0C-DFF6-4349-989E-DA4206177DBB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test30_Swap_Array", "Test30_Swap_Array\Test30_Swap_Array.csproj", "{34244362-0D47-45B2-A8BC-A8B215AECFCF}"
 EndProject
